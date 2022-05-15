@@ -3,7 +3,7 @@ import {
 	Object3D,
 	Quaternion,
 	Vector3
-} from 'https://unpkg.com/three/build/three.module.js';
+} from 'https://raw.githubusercontent.com/TCyclone/COSC-Graphics/main/three.js';
 
 /**
  * Based on http://www.emagix.net/academic/mscs-project/item/camera-sync-with-css3-and-webgl-threejs
